@@ -5,7 +5,7 @@ import time
 import httplib
 
 #s = serial.Serial('/dev/tty.usbserial-A9007MdP', 9600)
-s = serial.Serial('/dev/tty.usbserial-A600dJlw', 9600)
+s = serial.Serial('/dev/ttyUSB0', 9600)
 h = httplib.HTTPConnection("localhost:8081")
 t0 = time.time()
 
