@@ -1,8 +1,10 @@
-h1. Real-time graphing of Silvia Boiler Temp
+Real-time graphing of Silvia Boiler Temp
+===
 
 See http://nicolas.kruchten.com/POST_URL
 
-h2. Dependencies
+Dependencies
+---
 
 A modified version of http://github.com/joewalnes/smoothie is included, and for the node packages, run:
 
