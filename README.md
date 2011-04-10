@@ -6,8 +6,8 @@ h2. Dependencies
 
 A modified version of http://github.com/joewalnes/smoothie is included, and for the node packages, run:
 
-`npm install coffee-script`
-`npm install paperboy`
-`npm install socket.io`
+    npm install coffee-script
+    npm install paperboy
+    npm install socket.io
 
 
