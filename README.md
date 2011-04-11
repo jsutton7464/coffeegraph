@@ -1,7 +1,7 @@
 Real-time graphing of Silvia Boiler Temp
 ===
 
-See http://nicolas.kruchten.com/POST_URL for the motivation behind this system, as well as a video of it in operation.
+See [http://nicolas.kruchten.com/content/2011/04/graphing-siliva-temperature-on-ipad/] for the motivation behind this system, as well as a video of it in operation.
 
 What does it do? How does it work? How do I run it?
 ---
