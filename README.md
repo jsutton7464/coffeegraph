@@ -23,4 +23,4 @@ A modified version of [Smoothie Charts](http://github.com/joewalnes/smoothie) is
     npm install paperboy
     npm install socket.io
 
-
+Of course, you'll also need to have some code running on your Arduino! See [this sketch, for example](https://github.com/nicolaskruchten/arduino/tree/master/tc4v1)
